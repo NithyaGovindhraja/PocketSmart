@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PocketSmart</title>
+<style>
+body{font-family:sans-serif;background:#eef2ff;text-align:center;padding:30px}
+.card{background:white;padding:25px;border-radius:20px;box-shadow:0 10px 20px rgba(0,0,0,0.1);max-width:350px;margin:auto}
+h1{color:#4a6cf7}
+button{background:#4a6cf7;color:white;border:none;padding:12px 20px;border-radius:10px;width:100%;margin-top:10px}
+</style>
+</head>
+<body>
+<h1>PocketSmart 💰</h1>
+<div class="card">
+<h3>Daily Expense Tracker</h3>
+<p>Your smart finance app</p>
+<button>Add Expense</button>
+<button>View Budget</button>
+</div>
+</body>
+</html>
